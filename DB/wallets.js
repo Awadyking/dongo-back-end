@@ -6,10 +6,6 @@ let wallet = new Schema({
     title : String , 
     users: Array , 
     amount : Number , 
-    dept : Number , 
-    for : Number , 
-    cards: Array , 
-    cash: Number , 
     goal : Number , 
     lists : Object
 })

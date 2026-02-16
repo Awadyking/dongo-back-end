@@ -6,7 +6,6 @@ let user = new Schema({
     name : String , 
     img : String , 
     wallets : Array , 
-    proccsses : Array , 
     pass : String , 
     token : String , 
     color : String
